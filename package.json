@@ -6,8 +6,8 @@
     "react-scripts": "1.0.6"
   },
   "dependencies": {
-    "react": "next",
-    "react-dom": "next",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
     "victory": "next"
   },
   "scripts": {
