@@ -6,7 +6,7 @@
     "react-scripts": "1.0.6"
   },
   "dependencies": {
-    "react": "next",
+    "react": "16.0.0",
     "react-dom": "next",
     "victory": "next"
   },
